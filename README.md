@@ -2,7 +2,7 @@
 <div align="center">
   <kbd>
   <a href="https://github.com/RetrO-M">
-    <img src="https://blog.joancolbert.com/wp-content/uploads/2013/11/garlic.jpg" alt="Logo" width="300" height="300">
+    <img src="https://blog.joancolbert.com/wp-content/uploads/2013/11/garlic.jpg" alt="Logo" width="200" height="200">
   </a>
   </kbd>
   
