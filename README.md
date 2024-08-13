@@ -1,94 +1,68 @@
+<div align=center>
+ 
+# Onion DDoS
+ <p>
+ <img src="https://img.shields.io/github/stars/RetrO-M/Onion-DDoS?color=%23DF0067&style=for-the-badge"/> &nbsp;
+ <img src="https://img.shields.io/github/forks/RetrO-M/Onion-DDoS?color=%239999FF&style=for-the-badge"/> &nbsp;
+ 
+</p>
+ DDoS script in python
+ <br/><br/>
+ don't attack websites you don't have permission to<br/>
+ To avoid it being illegal, create your own website and do whatever you want in<br/>
+ We are not responsible for your stupidities.
 
-<div align="center">
-  <kbd>
-  <a href="https://github.com/RetrO-M">
-    <img src="https://blog.joancolbert.com/wp-content/uploads/2013/11/garlic.jpg" alt="Logo" width="200" height="200">
-  </a>
-  </kbd>
-  
-  <h2 align="center">Onion DDoS</h2>
 
-  <p align="center">
-    V1.0 - (<b> by D3M3T0R </b>)
-    <br />
-    <br />
-    <a href="https://github.com/RetrO-M/Onion-DDoS/issues/">⚠️ Report Bug</a>
-  </p>
+## Language</br>
+
+ <img src="https://img.shields.io/badge/Python-FFDD00?style=for-the-badge&logo=python&logoColor=blue"/></br>
 </div>
 
----------------------------------------
-
-
----------------------------------------
-
-### ⚙️ Installation
+## Installing Python
 * linux-py: `sudo apt install python3`
 * win-py: `https://www.python.org/downloads/`
 
----------------------------------------
 
-### ❗ Disclaimers
-- I don't encourage anyone to hack, but don't play with hacking, it's illegal so we are not responsible. If you have problems it's your problem, DDOS is illegal of course to remind you
+## Methods
+```sh
+  [Layer 7]
+ - get      | Get Request Attack
+ - head     | Head Request Attack
+ - http2    | HTTP 2.0 Request Attack
+ - http     | HTTP Request Attack
+ - post     | POST Request Attack
+ - soc      | Socket Attack
+ - cfb      | Bypass CF attack
+ - pxcfb    | Bypass CF attack with proxy
+ - pxraw    | Proxy Request Attack
 
-- To avoid this being illegal, you will need to create your own site. If you attack a site for which you do not have authorization, it is completely illegal.
-
-- Create your site and then you do what you want. I made my own site... so it's not illegal, so please, no nonsense! 
-
----------------------------------------
-
-<h4 align="center">Languages ➜</h5>
-<p align="center">
-           <img src="https://skillicons.dev/icons?i=py"/>
-</p>
-
-
----------------------------------------
-
-- remember when you run a command put an IP or URL like if you want to geolocate an IP do "geoip 127.0.0.1" etc.
-
-### Example
-
-```
-[root@root]~$ dns <IP>
-```
-
-```
-[root@root]~$ post http://example.com/
+  [Layer 4]
+ - udp      | UDP Attack
+ - tcp      | TCP Attack
+ - syn      | SYN Attack
+  
+  [Tools]
+ - dns      | Classic DNS Lookup
+ - geoip    | Geo IP Address Lookup
+ - subnet   | Subnet IP Address Lookup
+ - page     | Page links
+ - portscan | Port scanner
+ - check    | Check proxies
+ - ping     | Check network connectivity
 ```
 
----------------------------------------
+## Installing Onion DDOS
+```sh
 
-### 📣 Features
+git clone https://github.com/RetrO-M/Onion-DDoS
+cd Onion-DDoS
 
-```diff
-+ Layer7
-GET Request Attack
-HEAD Request Attack
-HTTP 2.0 Request Attack
-HTTP Request Attack 
-POST Request Attack
-Socket Attack
-
-+ Layer4
-UDP Attack
-TCP Attack
-
-+ Tools
-Geo IP Address Lookup
-Classic DNS Lookup
-Subnet IP Address Lookup
-Page Links
-Port Scanner
+Install Python3 modules 
+ - pip3 install rgbprint
+ - pip3 install httpx
+ - pip3 install cloudscraper
+ - pip3 install requests
+ - pip3 install fake-useragent
+Start the program
+ - python3 main.py
 ```
-
----------------------------------------
-
-
-
-<a href="https://star-history.com/#RetrO-M/Onion-DDoS&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=RetrO-M/Onion-DDoS&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=RetrO-M/Onion-DDoS&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=RetrO-M/Onion-DDoS&type=Date" />
- </picture>
-</a>
