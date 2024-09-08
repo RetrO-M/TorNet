@@ -3,7 +3,7 @@
 # Onion DDoS
  <p>
  <img src="https://img.shields.io/github/stars/RetrO-M/Onion-DDoS?color=%23DF0067&style=for-the-badge"/> &nbsp;
- <img src="https://img.shields.io/github/forks/RetrO-M/Onion-DDoS?color=%239999FF&style=for-the-badge"/> &nbsp;
+ <img src="https://img.shields.io/github/forks/RetrO-M/Onion-DDoS?color=%2300FF00&style=for-the-badge"/> &nbsp;
  
 </p>
  DDoS script in python
