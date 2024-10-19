@@ -52,6 +52,7 @@ root~# sudo nano /etc/tor/torrc
 # Scroll down and search for "HashedControlPassword" and "ControlPort 9051" and remove the "#"
 ControlPort 9051
 HashedControlPassword < YOU_PASSWORD_HASH >
+CookieAuthentication 0
 root~# sudo systemctl restart tor
 root~# sudo systemctl status tor
 ```
