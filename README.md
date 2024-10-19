@@ -1,27 +1,47 @@
-<div align=center>
- 
-# TorNet
+![Header](assets/header.png)
 
- DDoS Tool
- <br/><br/>
- don't attack websites you don't have permission to<br/>
- To avoid it being illegal, create your own website and do whatever you want in, We are not responsible for your stupidities.<br/>
+<div align="center">
+  <h2 align="center">TORNET </h2>
 
-
-## Language</br>
-
- <img src="https://img.shields.io/badge/Python-FFDD00?style=for-the-badge&logo=python&logoColor=blue"/></br>
+  <p align="center">
+    DDoS Tool (<b> by D3M3T0R </b>)
+    <br />
+    <br />
+    <a href="https://github.com/RetrO-M">🎃 Profil</a>
+    ·
+    <a href="https://github.com/RetrO-M/issues">⚠️ Report Bug</a>
+  </p>
 </div>
 
-- Don't worry if there are any bugs in the tool, we will try to fix them 🔧
+---------------------------------------
 
-## Installing Python & TOR
+### ❗ Disclaimer
 
+- don't attack websites you don't have permission to avoid it being illegal, create your own website and do whatever you want in, We are not responsible for your stupidities.
+
+---------------------------------------
+
+  <kbd>
+  <a href="https://github.com/RetrO-M/TorNet">
+    <img src="assets/src.png" alt="Logo" width="1920" height="500">
+  </a>
+  </kbd>
+  
+---------------------------------------
+
+  <kbd>
+  <a href="https://github.com/RetrO-M/TorNet">
+    <img src="assets/attack.png" alt="Logo" width="1920" height="500">
+  </a>
+  </kbd>
+  
+---------------------------------------
+
+### ⚙️ Installation
 * linux-py: `sudo apt install python3`
-* windows-py: `https://www.python.org/downloads/`
-
-* linux: `sudo apt install tor`
-* windows: `https://www.torproject.org/download/`
+* win-py: `https://www.python.org/downloads/`
+* Start-win: `python main.py`
+* Start-Linux: `python3 main.py`
 
 ```shell
 root~# sudo apt update
@@ -36,8 +56,6 @@ root~# sudo systemctl restart tor
 root~# sudo systemctl status tor
 ```
 
-## Installing TorNet
-
 ```sh
 git clone https://github.com/RetrO-M/TorNet
 cd TorNet
@@ -46,10 +64,8 @@ Install Python modules
  - pip3 install -r requirements.txt
 
 Start the program
- - python3 main.py < URL > < PASSWORD_TOR >
+ - python3 main.py
 ```
-
-## Educational Purposes Only
 
 ```
  _____________________
@@ -87,3 +103,12 @@ Violating cybersecurity laws can result in severe criminal penalties, including 
 The use of this tool must always be preceded by an assessment of potential impacts and a thorough planning process to avoid 
 any unintended disruption of essential services. 
 ```
+
+---------------------------------------
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/RetrO-M/TorNet.svg?style=for-the-badge&labelColor=black&color=f429ff&logo=IOTA"/>
+  <img src="https://img.shields.io/github/languages/top/RetrO-M/TorNet.svg?style=for-the-badge&labelColor=black&color=f429ff&logo=python"/>
+</p>
+
+![Footer](assets/footer.png)
