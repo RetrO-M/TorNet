@@ -1,0 +1,5 @@
+requests
+fake-useragent
+stem
+colorama
+requests[socks]
