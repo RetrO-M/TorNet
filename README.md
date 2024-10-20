@@ -9,7 +9,7 @@
     <br />
     <a href="https://github.com/RetrO-M">🎃 Profile</a>
     ·
-    <a href="https://github.com/RetrO-M/issues">⚠️ Report Bug</a>
+    <a href="https://github.com/RetrO-M/TorNet/issues">⚠️ Report Bug</a>
   </p>
 </div>
 
