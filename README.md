@@ -27,7 +27,7 @@
 ## ScreenShot
 | Main ScreenShot | Information	|
 | ------------  | ------------ |
-|![Index](assets/main.png)|![f](assets/attack.png)
+|![Index](assets/main.png)|![f](assets/attack1.png)
 
 
 ## ⚙️ Installation
