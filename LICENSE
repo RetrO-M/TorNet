@@ -4,9 +4,9 @@ Copyright (c) 2024 D3M3T0R
 
 Permission
 
-Hereby, permission is granted, free of charge, to any person obtaining a copy of this software and associated documentation
-files (the "Software"), to use the Software solely for the purpose of helping to detect and prevent DDoS attacks. The use of
-this tool to perform DDoS attacks or for any other illegal activity is strictly prohibited.
+This software ("the Tool") is provided solely to assist in detecting and preventing DDoS attacks and may only be used with 
+the explicit permission of the author. Copying, modifying, reproducing, distributing, or publishing this tool without prior
+written authorization from the author is strictly prohibited.
 
 Copyright Notice
 The above copyright notice and this permission notice must be included in all copies or substantial portions of the Software. 
@@ -30,5 +30,8 @@ Software. The author and contributors cannot be held liable for any damages, los
 License Modifications
 The author reserves the right to modify this license at any time. Changes will take effect upon publication in the repository of this project.
 It is your responsibility to check for updates to the license regularly.
+
+Important Note: In case of complaints or unauthorized misuse of this tool for DDoS attacks on websites, the author reserves the right to withdraw
+or remove the tool to avoid any legal liability.
 
 Final Note: This license is intended to protect both the author and the user. By adhering to these terms, you can use this tool safely and responsibly.
