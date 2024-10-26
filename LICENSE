@@ -1,0 +1,34 @@
+MIT License
+
+Copyright (c) 2024 D3M3T0R
+
+Permission
+
+Hereby, permission is granted, free of charge, to any person obtaining a copy of this software and associated documentation
+files (the "Software"), to use the Software solely for the purpose of helping to detect and prevent DDoS attacks. The use of
+this tool to perform DDoS attacks or for any other illegal activity is strictly prohibited.
+
+Copyright Notice
+The above copyright notice and this permission notice must be included in all copies or substantial portions of the Software. 
+This ensures that the original author is credited for their work.
+
+Disclaimer
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES 
+OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NONINFRINGEMENT, AND TITLE. NO AUTHOR OR COPYRIGHT HOLDER SHALL BE LIABLE
+FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN 
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. This means that if any issues arise while using the 
+software, the author is not responsible.
+
+Ethical Use
+You agree to use this tool in an ethical and responsible manner. You must obtain explicit permission from the systems you monitor 
+or test with this tool. Misuse of this tool may lead to legal consequences.
+
+Limitation of Liability
+By using this Software, you acknowledge that you do so at your own risk. You are responsible for any inappropriate use of the
+Software. The author and contributors cannot be held liable for any damages, losses, or consequences resulting from the use of this tool.
+
+License Modifications
+The author reserves the right to modify this license at any time. Changes will take effect upon publication in the repository of this project.
+It is your responsibility to check for updates to the license regularly.
+
+Final Note: This license is intended to protect both the author and the user. By adhering to these terms, you can use this tool safely and responsibly.
